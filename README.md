@@ -14,7 +14,7 @@
 Claude Code 2.1.292 이상에서 터미널에 한 줄을 입력합니다.
 
 ```bash
-claude plugin install sjc-skills --marketplace <GitHub 계정>/soojaechun-skills
+claude plugin install sjc-skills --marketplace soojaechun/soojaechun-skills
 ```
 
 터미널, 데스크톱 앱, VS Code 중 어디서 설치해도 세 곳 모두에서 보입니다. 설치한 뒤 새 세션을 열면 `/sjc-skills:`로 시작하는 명령이 나옵니다.
